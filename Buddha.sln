@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buddha", "Buddha.csproj", "{CB22E8F9-8AF5-862D-4A28-B6991FDB5E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buddha.Editor", "Buddha.Editor.csproj", "{B730BD2C-1014-35C9-59D4-F1FCAF05B627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB22E8F9-8AF5-862D-4A28-B6991FDB5E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB22E8F9-8AF5-862D-4A28-B6991FDB5E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB22E8F9-8AF5-862D-4A28-B6991FDB5E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB22E8F9-8AF5-862D-4A28-B6991FDB5E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B730BD2C-1014-35C9-59D4-F1FCAF05B627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B730BD2C-1014-35C9-59D4-F1FCAF05B627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B730BD2C-1014-35C9-59D4-F1FCAF05B627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B730BD2C-1014-35C9-59D4-F1FCAF05B627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

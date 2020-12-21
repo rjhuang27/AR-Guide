@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b208173c9e2434b4bad9f8d6cc709617
+timeCreated: 1573298410
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AaSanhangqingshupinyinti (Non-Commercial Use)
+  fontNames:
+  - AaSanhangqingshupinyinti (Non-Commercial Use)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

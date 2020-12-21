@@ -1,0 +1,9 @@
+newmtl mesh
+Ka 0.200000 0.200000 0.200000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+illum 0
+map_Ka Default.jpg
+map_Kd Default.jpg
+map_Ks Default.jpg
+
